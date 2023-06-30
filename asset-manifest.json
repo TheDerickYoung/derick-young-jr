@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/derick-young-jr/static/css/main.33eb08de.css",
-    "main.js": "/derick-young-jr/static/js/main.a6f74258.js",
-    "static/media/work1.jpg": "/derick-young-jr/static/media/work1.038c2e2550638ea0eb99.jpg",
-    "static/media/work4.jpg": "/derick-young-jr/static/media/work4.c55e767f51a353ecc19b.jpg",
-    "static/media/about.jpg": "/derick-young-jr/static/media/about.b27102c56c69c59a625a.jpg",
-    "static/media/work3.jpg": "/derick-young-jr/static/media/work3.58925d2e7efe30c7f9c7.jpg",
-    "static/media/work2.jpg": "/derick-young-jr/static/media/work2.2df80182ce010c4724c8.jpg",
-    "static/media/profile.jpg": "/derick-young-jr/static/media/profile.ee755b71e8476dce961c.jpg",
-    "static/media/work5.jpg": "/derick-young-jr/static/media/work5.aafb34ee7cd78dd0e792.jpg",
-    "static/media/testimonial3.png": "/derick-young-jr/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
-    "static/media/testimonial2.png": "/derick-young-jr/static/media/testimonial2.39a53f7f092f07f5bceb.png",
-    "static/media/testimonial1.png": "/derick-young-jr/static/media/testimonial1.89079c1d25f2c94ceb89.png",
-    "static/media/Smith-Cv.pdf": "/derick-young-jr/static/media/Smith-Cv.e83747cf513e0b21a7f1.pdf",
-    "index.html": "/derick-young-jr/index.html",
-    "main.33eb08de.css.map": "/derick-young-jr/static/css/main.33eb08de.css.map",
-    "main.a6f74258.js.map": "/derick-young-jr/static/js/main.a6f74258.js.map"
+    "main.css": "/static/css/main.fe34de5a.css",
+    "main.js": "/static/js/main.8dc55b63.js",
+    "static/media/work1.jpg": "/static/media/work1.038c2e2550638ea0eb99.jpg",
+    "static/media/work4.jpg": "/static/media/work4.c55e767f51a353ecc19b.jpg",
+    "static/media/about.jpg": "/static/media/about.b27102c56c69c59a625a.jpg",
+    "static/media/work3.jpg": "/static/media/work3.58925d2e7efe30c7f9c7.jpg",
+    "static/media/work2.jpg": "/static/media/work2.2df80182ce010c4724c8.jpg",
+    "static/media/profile.jpg": "/static/media/profile.ee755b71e8476dce961c.jpg",
+    "static/media/work5.jpg": "/static/media/work5.aafb34ee7cd78dd0e792.jpg",
+    "static/media/testimonial3.png": "/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "static/media/Smith-Cv.pdf": "/static/media/Smith-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/index.html",
+    "main.fe34de5a.css.map": "/static/css/main.fe34de5a.css.map",
+    "main.8dc55b63.js.map": "/static/js/main.8dc55b63.js.map"
   },
   "entrypoints": [
-    "static/css/main.33eb08de.css",
-    "static/js/main.a6f74258.js"
+    "static/css/main.fe34de5a.css",
+    "static/js/main.8dc55b63.js"
   ]
 }
