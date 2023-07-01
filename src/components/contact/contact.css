@@ -19,6 +19,13 @@
   margin-bottom: var(--mb-1-5);
 }
 
+.contact__section__subtitle {
+  display: block;
+  font-size: var(--small-font-size);
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
 .contact__info {
   display: grid;
   row-gap: 1rem;

@@ -19,8 +19,10 @@ const Contact = () => {
 
   return (
     <section className="contact section" id="contact">
-      <h2 className="section__title">Get in touch</h2>
-      <span className="section__subtitle">Contact Me</span>
+      <h2 className="section__title">
+        Get in touch <i className="uil uil-fast-mail"></i>
+      </h2>
+      <span className="contact__section__subtitle">Contact Me</span>
 
       <div className="contact__container container ">
         {/*  <div className="contact__content">
@@ -72,7 +74,7 @@ const Contact = () => {
   </div>  */}
 
         <div className="contact__content">
-          <h3 className="contact__title">Write me your project</h3>
+          {/* <h3 className="contact__title">Write me your project</h3> */}
 
           <form ref={form} onSubmit={sendEmail} className="contact__form">
             <div className="contact__form-div">

@@ -137,7 +137,7 @@ img {
 
 /*=============== LAYOUT ===============*/
 .container {
-  max-width: 968px;
+  max-width: 1068px; /* This used to be 968 px only widend so I could add more technical skill icons/svgs */
   margin-left: auto;
   margin-right: auto;
 }
