@@ -84,7 +84,7 @@
 }
 
 .contact__form {
-  width: 360px;
+  width: 560px;
   text-align: center;
 }
 
@@ -167,4 +167,10 @@
 
 /* For small devices */
 @media screen and (max-width: 350px) {
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+  .contact__form {
+    width: 360px;
+  }
 }

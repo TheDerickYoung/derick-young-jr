@@ -13,7 +13,7 @@ const WorkItems = ({ item }) => {
         rel="noreferrer"
       >
         Demo
-        <i className="bx bx-right-arrow-alt work__button-icon"></i>
+        <i className="bx bx-right-arrow-alt work__button-icon "></i>
       </a>
       <a
         href={item.sourceCode}
