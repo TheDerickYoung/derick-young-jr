@@ -13,23 +13,30 @@ const About = () => {
       </span>
 
       <div className="about__container container grid">
-        <img
-          src={AboutImg}
-          alt="Dennis Yu, CTO of BlitzMetrics, Micheal P. Toothman, Educator, and myself having dinner together after a day full of work meetings."
-          className="about__img"
-        />
+        <div className="about__picture">
+          <img
+            src={AboutImg}
+            alt="Dennis Yu, CTO of BlitzMetrics, Micheal P. Toothman, Educator, and myself having dinner together after a day full of work meetings."
+            className="about__img"
+          />
+          <p className="picture-caption">
+            Enjoying a delightful dinner with Dennis Yu, CTO of BlitzMetrics,
+            and Michael P. Toothman, Educator at UC Riverside—great company and
+            insightful conversations!
+          </p>
+        </div>
 
         <div className="about__data">
           {/*<Info />*/}
 
           <h2 className="about__section__title">About Me</h2>
           <p className="about__description">
-            With a proven track record in web development and 3 years of
-            hands-on experience, I'm a passionate developer specializing in C#
-            and JavaScript. My expertise lies in leveraging modern frameworks
-            like React, Tailwind CSS, and SASS to craft dynamic and visually
-            appealing web applications. I thrive on tackling complex challenges
-            head-on and delivering innovative solutions. Let's connect and
+            With a proven track record in web and software development, backed
+            by 4 years of hands-on experience, I am a passionate developer
+            specializing in C# and JavaScript. I leverage modern frameworks like
+            React, .NET, and SASS to create dynamic, visually appealing web
+            applications. I thrive on tackling complex challenges head-on,
+            consistently delivering innovative solutions. Let's connect and
             collaborate to create exceptional digital experiences together.
           </p>
 
