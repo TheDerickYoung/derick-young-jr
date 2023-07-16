@@ -31,12 +31,13 @@ const About = () => {
 
           <h2 className="about__section__title">About Me</h2>
           <p className="about__description">
-            With a proven track record in web and software development, backed
-            by 4 years of hands-on experience, I am a passionate developer
-            specializing in C# and JavaScript. I leverage modern frameworks like
-            React, .NET, and SASS to create dynamic, visually appealing web
-            applications. I thrive on tackling complex challenges head-on,
-            consistently delivering innovative solutions. Let's connect and
+            Software engineer with 4+ years of hands-on development experience,
+            specializing in creating engaging, user-friendly web experiences. I
+            excel in leading frontend development projects, optimizing user
+            interfaces, and implementing innovative solutions that seamlessly
+            align with corporate goals. Leveraging my expertise in C#,
+            JavaScript, React, and other modern frameworks, I deliver dynamic
+            and visually appealing web applications. Let's connect and
             collaborate to create exceptional digital experiences together.
           </p>
 
