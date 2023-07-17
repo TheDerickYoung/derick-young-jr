@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.2e874339.css",
-    "main.js": "/static/js/main.5d740e31.js",
+    "main.js": "/static/js/main.f2c53176.js",
     "static/media/work1.jpg": "/static/media/work1.038c2e2550638ea0eb99.jpg",
     "static/media/work4.jpg": "/static/media/work4.c55e767f51a353ecc19b.jpg",
     "static/media/about.jpg": "/static/media/about.b27102c56c69c59a625a.jpg",
     "static/media/work3.jpg": "/static/media/work3.58925d2e7efe30c7f9c7.jpg",
     "static/media/work2.jpg": "/static/media/work2.2df80182ce010c4724c8.jpg",
     "static/media/profile.jpg": "/static/media/profile.ee755b71e8476dce961c.jpg",
-    "static/media/Derick-Young-Jr-Frontend-Engineer-Resume.pdf": "/static/media/Derick-Young-Jr-Frontend-Engineer-Resume.dcf3051c726b85f8a271.pdf",
+    "static/media/Derick-Young-Jr-Frontend-Engineer-Resume.pdf": "/static/media/Derick-Young-Jr-Frontend-Engineer-Resume.355d42ba80f3c3b7e538.pdf",
     "static/media/work5.jpg": "/static/media/work5.aafb34ee7cd78dd0e792.jpg",
     "static/media/testimonial3.png": "/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
     "static/media/testimonial2.png": "/static/media/testimonial2.39a53f7f092f07f5bceb.png",
     "static/media/testimonial1.png": "/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/index.html",
     "main.2e874339.css.map": "/static/css/main.2e874339.css.map",
-    "main.5d740e31.js.map": "/static/js/main.5d740e31.js.map"
+    "main.f2c53176.js.map": "/static/js/main.f2c53176.js.map"
   },
   "entrypoints": [
     "static/css/main.2e874339.css",
-    "static/js/main.5d740e31.js"
+    "static/js/main.f2c53176.js"
   ]
 }
