@@ -34,7 +34,7 @@ export const projectsData = [
     category: "design",
     demo: "",
     sourceCode:
-      "https://github.com/TheDerickYoung/my-babys-med-journal-react-version",
+      "https://thederickyoung.github.io/my-babys-med-journal-react-version/",
   },
   {
     id: 4,
