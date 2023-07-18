@@ -32,9 +32,9 @@ export const projectsData = [
     description:
       "Manage your baby's medicine records effortlessly with the Baby Medicine Journal app. Developed with React, this user-friendly application enables you to track medicine type, temperature, and notes. Seamlessly add, delete, and timestamp records for efficient monitoring and organization.",
     category: "design",
-    demo: "",
+    demo: "https://thederickyoung.github.io/my-babys-med-journal-react-version/",
     sourceCode:
-      "https://thederickyoung.github.io/my-babys-med-journal-react-version/",
+      "https://github.com/TheDerickYoung/my-babys-med-journal-react-version",
   },
   {
     id: 4,
