@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/about.jpg";
-import CV from "../../assets/Derick-Young-Jr-Frontend-Engineer-Resume.pdf";
+import CV from "../../assets/Derick-Young-Jr-Software-Engineer-Resume.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -31,14 +31,17 @@ const About = () => {
 
           <h2 className="about__section__title">About Me</h2>
           <p className="about__description">
-            Software engineer with 4+ years of hands-on development experience,
-            specializing in creating engaging, user-friendly web experiences. I
-            excel in leading frontend development projects, optimizing user
-            interfaces, and implementing innovative solutions that seamlessly
-            align with corporate goals. Leveraging my expertise in C#,
-            JavaScript, React, and other modern frameworks, I deliver dynamic
-            and visually appealing web applications. Let's connect and
-            collaborate to create exceptional digital experiences together.
+            Results-driven software engineer with 4+ years of experience
+            creating exceptional web experiences. Proficient in HTML5, CSS3,
+            JavaScript, and C#, with notable achievements in automating mortgage
+            loan originator processes, resulting in a remarkable ~50% reduction
+            in processing time. Detail-oriented and collaborative team player,
+            adept at writing clear software requirement specifications to ensure
+            seamless project execution. Passionate learner, dedicated to staying
+            at the forefront of emerging technologies. Excited to contribute
+            proven skills and unwavering commitment to excellence in delivering
+            exceptional digital solutions that elevate user experiences and
+            drive business success.
           </p>
 
           <a download="" href={CV} className="button button--flex contact-btn">
