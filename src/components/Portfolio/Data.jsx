@@ -10,7 +10,7 @@ export const projectsData = [
     image: Work1,
     title: "For3ver Young Ecommerce App",
     description:
-      "Experience a feature-rich online store powered by React, TypeScript, GraphQL, Stripe, and Firebase. Enjoy seamless shopping, secure payments, and real-time updates. Showcase your products and deliver a smooth, personalized experience. Unlock scalability and customization to suit your unique business needs.",
+      "Experience a feature-rich online store powered by React, TypeScript, GraphQL, Stripe, and Firebase. Enjoy seamless shopping, secure payments, and real-time updates. Showcase your products and deliver a smooth, personalized experience.",
     category: "web",
     demo: "",
     sourceCode: "https://github.com/TheDerickYoung/for3veryoung-apparel-store",

@@ -20,7 +20,7 @@
 }
 
 .home__social-icon:hover {
-  color: var(--title-color-dark);
+  color: var(--hover-color);
 }
 
 .home__title {
@@ -60,7 +60,7 @@
 }
 
 .home__img {
-  background: url(../../assets//profile.jpg);
+  background: url(../../assets/profile1.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -109,6 +109,10 @@
 
 .tech-skills-icon {
   margin: 10px;
+}
+
+.tech-skills-icon:hover {
+  transform: scaleX(1.05);
 }
 
 .wheel {
