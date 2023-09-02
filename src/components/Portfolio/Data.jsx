@@ -36,27 +36,27 @@ export const projectsData = [
     sourceCode:
       "https://github.com/TheDerickYoung/my-babys-med-journal-react-version",
   },
-  {
-    id: 4,
-    image: Work4,
-    title: "Disney Characters Hub",
-    description:
-      "Explore and discover your beloved Disney characters, films, and TV shows effortlessly. This React-based application utilizes axios for seamless data fetching, bringing you an immersive search experience.",
-    category: "app",
-    demo: "https://thederickyoung.github.io/disney-character-hub/",
-    sourceCode: "https://github.com/TheDerickYoung/disney-character-hub",
-  },
-  {
-    id: 5,
-    image: Work5,
-    title: "Workit Landing Page",
-    description:
-      "A visually captivating and professionally designed website landing page that embodies modern web design, delivering an unforgettable user experience.",
-    category: "web",
-    demo: "https://thederickyoung.github.io/frontend-mentor-workit-landing-page-challenge/",
-    sourceCode:
-      "https://github.com/TheDerickYoung/frontend-mentor-workit-landing-page-challenge",
-  },
+  // {
+  //   id: 4,
+  //   image: Work4,
+  //   title: "Disney Characters Hub",
+  //   description:
+  //     "Explore and discover your beloved Disney characters, films, and TV shows effortlessly. This React-based application utilizes axios for seamless data fetching, bringing you an immersive search experience.",
+  //   category: "app",
+  //   demo: "https://thederickyoung.github.io/disney-character-hub/",
+  //   sourceCode: "https://github.com/TheDerickYoung/disney-character-hub",
+  // },
+  // {
+  //   id: 5,
+  //   image: Work5,
+  //   title: "Workit Landing Page",
+  //   description:
+  //     "A visually captivating and professionally designed website landing page that embodies modern web design, delivering an unforgettable user experience.",
+  //   category: "web",
+  //   demo: "https://thederickyoung.github.io/frontend-mentor-workit-landing-page-challenge/",
+  //   sourceCode:
+  //     "https://github.com/TheDerickYoung/frontend-mentor-workit-landing-page-challenge",
+  // },
 ];
 
 // projects

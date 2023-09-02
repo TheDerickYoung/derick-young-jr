@@ -20,8 +20,8 @@ const About = () => {
             className="about__img"
           />
           <p className="picture-caption">
-            Enjoying a delightful dinner with Dennis Yu, CTO of BlitzMetrics,
-            and Michael P. Toothman, Educator at UC Riverside—great company and
+            Enjoying a nice dinner with Dennis Yu, CTO of BlitzMetrics, and
+            Michael P. Toothman, Educator at UC Riverside — great company and
             insightful conversations!
           </p>
         </div>
@@ -31,17 +31,13 @@ const About = () => {
 
           <h2 className="about__section__title">About Me</h2>
           <p className="about__description">
-            Results-driven software engineer with 4+ years of experience
-            creating exceptional web experiences. Proficient in HTML5, CSS3,
-            JavaScript, and C#, with notable achievements in automating mortgage
-            loan originator processes, resulting in a remarkable ~50% reduction
-            in processing time. Detail-oriented and collaborative team player,
-            adept at writing clear software requirement specifications to ensure
-            seamless project execution. Passionate learner, dedicated to staying
-            at the forefront of emerging technologies. Excited to contribute
-            proven skills and unwavering commitment to excellence in delivering
-            exceptional digital solutions that elevate user experiences and
-            drive business success.
+            Innovative Software Engineer with 4+ years of experience in
+            developing and implementing cutting-edge web solutions for various
+            industries, including mortgage, retail, and transportation. I have a
+            strong background in full-stack web development, using technologies
+            such as React, Java, Bootstrap, Node.js, and PostgreSQL. I also have
+            experience in creating and integrating APIs, automating processes,
+            and developing AI-powered chatbots.
           </p>
 
           <a download="" href={CV} className="button button--flex contact-btn">
