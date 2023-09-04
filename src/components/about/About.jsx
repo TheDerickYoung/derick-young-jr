@@ -46,7 +46,7 @@ const About = () => {
               href={CV}
               className="button button--flex contact-btn view-resume"
             >
-              View Resume
+              View My Resume
               <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
@@ -73,7 +73,7 @@ const About = () => {
                 ></path>
               </svg>
             </a>
-            <a
+            {/*<a
               download=""
               href={CV}
               className="button button--flex contact-btn"
@@ -104,7 +104,7 @@ const About = () => {
                   fill="var(--container-color)"
                 ></path>
               </svg>
-            </a>
+  </a>*/}
           </div>
         </div>
       </div>
