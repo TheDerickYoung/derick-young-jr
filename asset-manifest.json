@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.58a66522.css",
-    "main.js": "/static/js/main.7d688f5d.js",
+    "main.js": "/static/js/main.e0dee6dc.js",
     "static/media/work1.jpg": "/static/media/work1.038c2e2550638ea0eb99.jpg",
     "static/media/work4.jpg": "/static/media/work4.c55e767f51a353ecc19b.jpg",
     "static/media/about.jpg": "/static/media/about.b27102c56c69c59a625a.jpg",
@@ -9,16 +9,16 @@
     "static/media/profile3.jpg": "/static/media/profile3.b30df16fdbd669faf5b9.jpg",
     "static/media/work2.jpg": "/static/media/work2.2df80182ce010c4724c8.jpg",
     "static/media/work5.jpg": "/static/media/work5.aafb34ee7cd78dd0e792.jpg",
-    "static/media/Derick-Young-Jr-Software-Engineer-Resume.pdf": "/static/media/Derick-Young-Jr-Software-Engineer-Resume.e029f036986aebfcfe4e.pdf",
+    "static/media/Derick-Young-Jr-Software-Engineer-Resume.pdf": "/static/media/Derick-Young-Jr-Software-Engineer-Resume.569f164c69e3bfe06ba1.pdf",
     "static/media/testimonial3.png": "/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
     "static/media/testimonial2.png": "/static/media/testimonial2.39a53f7f092f07f5bceb.png",
     "static/media/testimonial1.png": "/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/index.html",
     "main.58a66522.css.map": "/static/css/main.58a66522.css.map",
-    "main.7d688f5d.js.map": "/static/js/main.7d688f5d.js.map"
+    "main.e0dee6dc.js.map": "/static/js/main.e0dee6dc.js.map"
   },
   "entrypoints": [
     "static/css/main.58a66522.css",
-    "static/js/main.7d688f5d.js"
+    "static/js/main.e0dee6dc.js"
   ]
 }
