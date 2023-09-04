@@ -111,3 +111,13 @@
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+.about-btns {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.view-resume {
+  margin-right: 0.5rem;
+}
