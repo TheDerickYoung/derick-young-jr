@@ -31,13 +31,18 @@ const About = () => {
 
           <h2 className="about__section__title">About Me</h2>
           <p className="about__description">
-            Innovative Software Engineer with 4+ years of experience in
-            developing and implementing cutting-edge web solutions for various
-            industries, including mortgage, retail, and transportation. I have a
-            strong background in full-stack web development, using technologies
-            such as React, Java, Bootstrap, Node.js, and PostgreSQL. I also have
-            experience in creating and integrating APIs, automating processes,
-            and developing AI-powered chatbots.
+            I'm a community-taught developer who found my passion in crafting
+            effective online solutions through years of wearing many hats. My
+            journey began with building websites for small businesses, where I
+            quickly recognized the challenge of driving traffic to these
+            platforms. To enhance my skills, I delved into the world of paid
+            advertising, managing accounts for renowned brands like Ashley
+            HomeStore and TiVo at BlitzMetrics. My expertise expanded at Oxford
+            Priority Mortgage, where I not only enhanced their web presence but
+            also initiated building web applications to streamline internal
+            processes. I thrive on problem-solving, always seeking innovative
+            ways to simplify complexities for everyone. Let's turn challenges
+            into opportunities together.
           </p>
 
           <div className="about-btns">
